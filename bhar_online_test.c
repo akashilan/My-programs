@@ -16,6 +16,6 @@ int main()
             printf("%d", (s/(n/m))+1);
         }
     }
-
+        //this line is summa
     return 0;
 }
