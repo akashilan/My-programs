@@ -21,6 +21,7 @@ int main()
         if(s%(n/m) == 0){
             printf("%d", s/(n/m));
         }else{
+            
             printf("%d", (s/(n/m))+1);
         }
     }
