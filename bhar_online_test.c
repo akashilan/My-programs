@@ -16,10 +16,7 @@ int main()
             printf("%d", (s/(n/m))+1);
         }
     }
-<<<<<<< HEAD
         //this line is summa
-=======
     //this line added temporarily...
->>>>>>> master
     return 0;
 }
