@@ -72,6 +72,6 @@ public class QueueImplementation{
         for(int i = 0; i < 10; i++){
             q.enqueue(i*i*i);
         }
-        q.print();
+        q.print(); 
     }
 }
